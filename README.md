@@ -221,12 +221,6 @@ timeline
 
 </div>
 
-## 📈 Activité GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismvviil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff6b35&point=ffffff" />
-</div>
-
 ## 🎯 Objectifs 2025
 
 <div align="center">
